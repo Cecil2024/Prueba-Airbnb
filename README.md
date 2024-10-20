@@ -1,10 +1,23 @@
-During the first task, I encountered several challenges. 
 
-The main issue was that I needed a new computer, which I resolved by replacing the old one. 
+# 🏡 Airbnb Home Page Mock-Up
 
-However, I faced another obstacle - time. 
-As a full-time mom, finding time for personal projects is difficult, especially without much support apart from my husband. 
+This project is a mock-up of the Airbnb home page, built to showcase front-end design skills and layout practices. The mock-up replicates the look and feel of the Airbnb landing page with a mobile-first approach in mind.
 
-This made it really tough to complete the project. Unfortunately, I couldn't finish it properly, and the deliverables didn't meet all the requirements. 
-I put in a lot of effort and focus, both physically and mentally. It was a challenging experience, but I believe I can do better. 
-The Bootcamp training has partially addressed this problem, so I'm putting all my efforts into it :)
+## ✨ Features
+- ⚡ Static homepage replicating Airbnb's design.
+- 🎨 Custom images, icons, and styles to match Airbnb's aesthetics.
+
+## 🛠️ Technologies Used
+- 🖼️ HTML, CSS, JavaScript
+
+## 🚀 How to Use
+1. Clone the repository:
+   ```
+   git clone https://github.com/yourusername/airbnb-homepage-mockup.git
+   ```
+2. Open `index.html` in your browser to view the mock-up.
+
+## 🔧 Future Improvements
+- 🌍 Add multi-language support.
+- 💬 Implement dynamic features like search and filtering.
+
